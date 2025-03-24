@@ -1,9 +1,53 @@
-- 👋 Hi, I’m Bia
-- 👀 I’m interested in the world of tecnology
-- 🌱 I’m currently learning HTML, JavaScript, Java, Python
-- 📫 How to reach me ... my instagram: bibelaoliveira
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am afraid of play dough dolls, for example: dolls in the movies like "Corpse Bride" and "Chicken Run"  
+
+
+
+<center>
+<br>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA=45&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Beatriz+Cardoso;I'm+26+years+old;I+am+from+Brazil,+PE;I+study+analysis+and+systems+development;Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcardosol&hide=html,TeX,Jupyter%20Notebook&layout=compact&theme=merko" /></td>
+        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizcardosol&theme=merko"/></td>
+    </tr>
+  </table>
+</center>
+
+<br>
+<br>
+
+##
+
+<br>
+
+### Main skills:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+<br>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ana-beatriz-cardoso-971063358/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:anabeatrizcardosoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizcardosol/beatrizcardosol/output/github-contribution-grid-snake-dark.svg">
