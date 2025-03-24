@@ -4,7 +4,7 @@
 <center>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA=45&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Beatriz+Cardoso;I'm+26+years+old;I+am+from+Brazil,+PE;I+study+analysis+and+systems+development;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6=45&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Beatriz+Cardoso;I'm+26+years+old;I+am+from+Brazil,+PE;I+study+analysis+and+systems+development;Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
   <table>
