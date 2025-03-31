@@ -3,21 +3,20 @@
 
 <center>
 <br>
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6=45&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Beatriz+Cardoso;I'm+26+years+old;I+am+from+Brazil,+PE;I+study+analysis+and+systems+development;Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
-  <table>
-    <tr>
-   <div style="text-align: center;" align="center">
 
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beatrizcardosol&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/beatrizcardosol/beatrizcardosol/blob/93db49d033e4aca9cf987058bbb3abbd6d0157ec/WhatsApp%20Image%202025-03-31%20at%2015.23.00.jpeg" width="150">
+    </td>
+    <td>
+      <a href="https://github.com/beatrizcardosol/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beatrizcardosol&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private
 
-  <a href="https://github.com/beatrizcardosol/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beatrizcardosol&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
 
 
 <br>
