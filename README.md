@@ -6,16 +6,11 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/beatrizcardosol/beatrizcardosol/blob/93db49d033e4aca9cf987058bbb3abbd6d0157ec/WhatsApp%20Image%202025-03-31%20at%2015.23.00.jpeg" width="150" style="border-radius: 10px;">
-    </td>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beatrizcardosol&layout=compact&langs_count=6&theme=tokyonight&hide=html,scss,less" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<br>
+<img src="https://giffiles.alphacoders.com/360/36002.gif">
+
 
 ---
 
